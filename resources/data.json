@@ -1,0 +1,8 @@
+{
+    "user":"admin",
+    "password": "password",
+    "wrong_password": "Do not store your passowrds in plain text",
+    "new_user": "QA",
+    "new_email": "test@test.com",
+    "new_password": "Great success"
+}
